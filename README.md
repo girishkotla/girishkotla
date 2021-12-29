@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @girishkotla
 - 👀 I’m interested in { Security, Networking, OWASP, Movies}
-- 🌱 I’m currently learning { Palo Alto, Bug hunting}
+- 🌱 I’m currently learning { Web Technologies, Bug hunting}
 
 
 <!---
